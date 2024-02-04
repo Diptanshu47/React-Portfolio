@@ -1,0 +1,109 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+html {
+    scroll-behavior: smooth;
+}
+
+#root{
+    width: 100%;
+    height: 100vh;
+    background-image: url("./public/Images/bg.jpg");
+    background-size: auto 100%;
+    background-position: center;
+}
+
+.navbar{
+    background-color: #f9f9f9 ;
+    z-index: 10;
+    position: fixed;
+    top: 0;
+}
+
+.navfull{
+    width: 98.5%;
+    border-radius: 1rem;
+    height: 48px;
+    border: solid black;
+    margin: 10px;
+    border-right: 4px;
+    border-bottom: 4px;
+    border-left: 2px;
+    border-top: 2px;
+    margin-top: 0;
+}
+
+@media (min-device-width : 200px) and (max-device-width : 900px){
+    .navfull{
+        width: 100% !important;
+        border-radius: 2px !important;
+        border: none;
+        margin: 0;
+    }
+}
+
+.navcollapse{
+    height: 48px;
+    margin: 10px;
+    border: solid black 2px;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/292/406/small/hamburger-menu-line-icon-free-vector.jpg");
+    background-size: cover;
+    margin-top: 2;
+}
+
+.curs{
+    cursor: url('./public/Lightmode/navigate.png') , auto;
+}
+
+.cursdark{
+    cursor: url('./public/Darkmode/navigate\ \(1\).png') , auto;
+}
+  
+.progress-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 10px;
+    background: #a8a8a8;
+    border: solid 0.3px grey;
+    transform-origin: 0%;
+}  
+
+/**********************Dark mode stylings*************************/
+
+.light{
+    background-color: white;
+    color: black;
+}
+
+.dark{
+    background-color: #110e1b;
+    color: #dddddd;
+}
+
+.shadow{
+    box-shadow: 0 9px 19px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+
+.darknav{
+    background-color: #000000;
+    color: white;
+}
+
+.darktitle{
+    color: #324A5F;
+}
+
+.darkname{
+    color: #230030;
+}
+
+.darkproject{
+    background-color: #11001c;
+}
+
+.darkinfo{
+    color: #dddddd;
+}

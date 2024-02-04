@@ -1,0 +1,66 @@
+[
+    {
+       "name" : "Blogister",
+       "content" : "Blogister is a Blog Posting site where you can 'C'reate blogs, 'R'ead blogs, 'U'pdate blogs, 'D'elete blogs",
+       "stack" : "M , E , R , N , Rest-Api",
+       "files" : "https://github.com/Diptanshu47/Blogister",
+       "link" : "https://blogister-app.onrender.com/",
+       "imgs" : "https://i.pinimg.com/564x/b2/64/b2/b264b20d5ab80dddda5d2f9d8eb6a10c.jpg"
+    },
+    {
+       "name" : "Tasker",
+       "content" : "A Todo List App where your todo Data is stored in Mongo-Db.",
+       "stack" : "Node-Js , Express-Js , Mongo-Db",
+       "files" : "https://github.com/Diptanshu47/Tasker",
+       "link" : "https://tasker-tl1k.onrender.com/",
+       "imgs" : "https://i.pinimg.com/564x/e2/75/18/e2751829eb5cae7b85eaf64de98af862.jpg"
+    },
+    {
+       "name" : "WeatherToday",
+       "content" : "A Simple Weather App made using OpenWeatherApi with a simple newspaper like UI",
+       "stack" : "Node-Js , Express-Js , Api",
+       "files" : "https://github.com/Diptanshu47/WeatherToday",
+       "link" : "https://weathertoday-4f4h.onrender.com/",
+       "imgs" : "https://i.pinimg.com/564x/d3/58/fa/d358faf844e70989fc076f25640f9bde.jpg"
+    },
+    {
+       "name" : "This-Is-Cinema",
+       "content" : "A Short Info of Movie/Tv Finder app Made using npm module 'node-movie'.",
+       "stack" : "Node-Js , Express-Js , Npm-module",
+       "files" : "https://github.com/Diptanshu47/This-Is-Cinema",
+       "link" : "https://this-is-cinema.cyclic.app/",
+       "imgs" : "https://i.pinimg.com/564x/df/1d/4f/df1d4f4165187c3a3fbfddaa60bca481.jpg"
+    },
+    {
+       "name" : "Keeper",
+       "content" : "Its a Clone of Google Keep made using React-js",
+       "stack" : "React-Js",
+       "files" : "https://github.com/Diptanshu47/Keeper",
+       "link" : "https://diptanshu47.github.io/Keeper/",
+       "imgs" : "https://i.pinimg.com/564x/61/12/55/61125598f7b13f56a92392d27c500818.jpg"
+    },
+    {
+       "name" : "TodoList",
+       "content" : "Its a simple to do list made using React-js",
+       "stack" : "React-Js",
+       "files" : "https://github.com/Diptanshu47/TodoList",
+       "link" : "https://diptanshu47.github.io/TodoList/",
+       "imgs" : "https://i.pinimg.com/564x/9b/6b/86/9b6b864afed073b9e124e23c4317df59.jpg"
+    },
+    {
+       "name" : "Simon The Game",
+       "content" : "Its a well known Game, player has to memorize the patterns of blinking colors",
+       "stack" : "Html , Css , J-Query",
+       "files" : "https://github.com/Diptanshu47/Simon-The-Game",
+       "link" : "https://diptanshu47.github.io/Simon-The-Game/",
+       "imgs" : "https://i.pinimg.com/564x/b3/e8/ba/b3e8ba9e6745bc63e8f13191cac0f6bb.jpg"
+    },
+    {
+       "name" : "Vrattant-Newsletter",
+       "content" : "Newsletter Sing-up App for Vrattant(Fictional e-book site by me)",
+       "stack" : "Node-Js , Express-Js , MailChimp-Api",
+       "files" : "https://github.com/Diptanshu47/Newsletter-Vrattant",
+       "link" : "https://vrattant-newsletter.onrender.com/",
+       "imgs" : "https://i.pinimg.com/564x/37/98/f8/3798f853f5bba7d038acb7ebe2ace213.jpg"
+    }
+]

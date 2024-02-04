@@ -1,0 +1,32 @@
+{
+ "details" : {
+    "smdes" : "Aspiring Mern Stack Developer with proficiency in both Frontend development , Backend Development and also familiar with its associated tools , technologies and best practices.",
+    "des" : "I am an Aspiring Mern Stack Developer with proficiency in developing scalable applications or landing pages, I have strong understanding of Building Rest-full Api's and integrate other api's ...as well as Database with Node & Express covering whole backend developement and Building Rich interfaces with integrated animations using Framer-motion,Bootstrap/Tailwind/Material-Ui and React, I have a intension to write clean code with best practices and ensure efficiency with it, I am Fresher in field yet experienced in teams and communications, Currently i am getting familiar with Next-js and Seeking for an Job Opportunity."
+ },
+ "socials" : {
+   "mail" : "goswamidiptanshu@gmail.com",
+   "insta" : "https://www.instagram.com/diptanshu_goswami/",
+   "git" : "https://github.com/Diptanshu47",
+   "linkedin" : "https://www.linkedin.com/in/gir-diptanshu-062a7421b/",
+   "old" : "https://diptanshu47.github.io/Portfolio/"
+ },
+ "socailimgs" : {
+  "mail" : "https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-256.png",
+  "insta" : "https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png",
+  "git" : "https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png",
+  "linkedin" : "https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-256.png"
+ },
+ "tech" : {
+  "html" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+  "css" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+  "javascript" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+  "bootstrap": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+  "tailwind" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+  "git" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg",
+  "postman" : "https://cdn.worldvectorlogo.com/logos/postman.svg",
+  "mongodb" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
+  "express" : "https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png",
+  "react" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+  "nodejs" : "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+ }
+}
