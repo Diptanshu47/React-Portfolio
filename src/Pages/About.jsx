@@ -3,6 +3,7 @@ import {motion} from "framer-motion";
 import MobileRes from "../Components/MobileRes";
 import data from "../../data/Data.json";
 import divider from "../public/Lightmode/divider.png"
+import dp from "../public/Images/dp.jpg"
 import { Context } from "../App";
 
 const About = () => {
@@ -38,7 +39,7 @@ const About = () => {
 				<div 
 				style={mob.width>1000 ? { width:'33.333333%' } : {width : ''}}
 				className="w-4/12 float-left mr-5 sm:float-none sm:w-full md:m-auto md:w-8/12">
-					<img className={`shadow w-10/12 rounded-xl p-3 m-auto border-solid border-2 border-r-4 border-b-4 ${dark ? `border-white` : `border-black`}`} src="src\public\Images\dp.jpg" />
+					<img className={`shadow w-10/12 rounded-xl p-3 m-auto border-solid border-2 border-r-4 border-b-4 ${dark ? `border-white` : `border-black`}`} src={dp} />
 				</div>
 				<motion.div id="aboutsection" className="text-left m-auto md:pt-16 sm:pt-32 sm:text-left" variants={cardVariants}>
 					<h1 className="mb-10 text-xl sm:mb-2 sm:text-center">About Me</h1>
