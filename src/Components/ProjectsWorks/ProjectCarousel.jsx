@@ -60,7 +60,7 @@ const HorizontalScrollCarousel = () => {
 						<img
 							style={how ? {display: "block"} : {display: "none"}}
 							className="w-16 m-auto mt-6"
-							src={dark ? "https://cdn-user-icons.flaticon.com/136732/136732225/1707046880747.svg?token=exp=1707047781~hmac=a2e27bd26687501f5dbe1e125beb069a" : "https://dictionary.cambridge.org/images/thumb/arrow_noun_002_01654.jpg?version=5.0.341"}
+							src={dark ? "https://cdn-icons-png.flaticon.com/128/5690/5690084.png" : "https://dictionary.cambridge.org/images/thumb/arrow_noun_002_01654.jpg?version=5.0.341"}
 						/>
 					</a>
 				</motion.div>

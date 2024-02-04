@@ -36,7 +36,7 @@ const Contact = () => {
 
 			<div className="w-9/12 m-auto mt-24 sm:w-11/12 sm:text-center sm:relative sm:mt-8 sm:h-72 md:w-[90%]">
 				<div className="my-2 sm:mb-16">
-					<Links about="Resume" link="https://drive.google.com/file/d/1cuPLP7BYbBjGLFjtGSxf9aPVmaiZpK20/view?usp=sharing" style="sm:justify-left container inline-flex"/>
+					<Links about="Resume" link="https://drive.google.com/file/d/1xQMsJericlIDqZtZKkPz8tQls52Kekv4/view?usp=sharing" style="sm:justify-left container inline-flex"/>
 					<Links about="Previous Portfolio" link="https://diptanshu47.github.io/Portfolio/" style="sm:justify-left container inline-flex"/>
 				</div>
 				<hr className={dark ? "border border-gray-500" : "border border-black"}></hr>
