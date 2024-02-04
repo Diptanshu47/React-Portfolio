@@ -47,7 +47,7 @@ const Contact = () => {
 					</div>
 					<Links
 						about="Portfolio Files"
-						link=""
+						link="https://github.com/Diptanshu47/React-Portfolio"
 						style="container inline-flex flex-row-reverse justify-items-end ml-auto my-auto max-w-max sm:absolute sm:bottom-[53%] sm:left-0 sm:m-auto sm:flex-row"
 					/>
 				</div>
